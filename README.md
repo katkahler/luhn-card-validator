@@ -15,5 +15,3 @@ sum is now 28 + 42 = 70.
 
 If that final sum is divisible by 10, the card number is valid. 70 % 10 = 7, so this card is valid. The function returns sum%10 = 0, and in setup, it is printed in the console whether or not the number is valid based on lunh(input)
 
-
-This project was a quick creation to return to abstracting algorithms after doing lots of graphics work.
